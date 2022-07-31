@@ -1,7 +1,7 @@
-# Vidector Beacon
+# Videction Beacon
 
-Vidector（来場者検出システム = Visitor Detector）におけるビーコン部分に関してのリポジトリです。  
-Vidector は BLE ビーコンを用いた来場者自動検知を行い、その情報を LoRaWAN を用いてサーバへと送信、及び Web アプリケーションでの可視化を行うシステムです。  
+Videction（来場者検出システム = Visitor Detection）におけるビーコン部分に関してのリポジトリです。  
+Videction は BLE ビーコンを用いた来場者自動検知を行い、その情報を LoRaWAN を用いてサーバへと送信、及び Web アプリケーションでの可視化を行うシステムです。  
 その中で本リポジトリは BLE を用いたビーコン=LoRaWAN 機構におけるエンドデバイスのセンサの役割を果たす部分の実装です。
 
 ## 使用デバイス
